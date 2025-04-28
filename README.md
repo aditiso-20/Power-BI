@@ -1,4 +1,19 @@
-# Power-BI
-**Walmart Customer Purchase Analysis **:-  
-This project analyses purchasing patterns of people during festive seasons and off-seasons.
-It provides meaningful insights of Sales and Profit considering various aspects of customers and products.
+# Walmart Customer Purchases - Power BI Project
+
+This project analyzes customer purchase patterns at Walmart using Power BI.
+
+## Key Insights:
+- Sales trend over time
+- Top-performing products
+- Customer demographics and payment methods
+- Branch-wise performance analysis
+
+## Tools Used:
+- Power BI
+- DAX
+- Power Query
+- Excel (basic cleaning)
+
+---
+
+Created by: Aditi Sohale
